@@ -5,4 +5,4 @@ RUN apt-get -y install curl
 RUN curl -fsSL https://deno.land/x/install/install.sh | sh
 FROM gcr.io/distroless/cc
 COPY --from=0 /root/.deno/bin/deno /
-ENTRYPOINT ["/deno", "--allow-read", "https://deno.land/x/license_checker@v2.0.0/main.ts"]
+ENTRYPOINT ["/deno", "--allow-read", "--allow-run", "https://deno.land/x/license_checker@v2.0.0/main.ts"]
