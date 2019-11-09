@@ -1,3 +1,4 @@
+# Copyright 2019 Yoshiya Hinosawa. All rights reserved. Blue Oak license.
 name: test
 on:
   push:

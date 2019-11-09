@@ -1,0 +1,4 @@
+{
+  "**/*.yml": "Copyright 2019 Yoshiya Hinosawa. All rights reserved. Blue Oak license.",
+  "**/Dockerfile": "Copyright 2019 Yoshiya Hinosawa. All rights reserved. Blue Oak license."
+}
