@@ -1,0 +1,7 @@
+name: License Checker
+author: Yoshiya Hinosawa <stibium121@gmail.com>
+inputs: []
+outputs: []
+runs:
+  using: docker
+  image: Dockerfile
