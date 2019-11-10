@@ -27,7 +27,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Check License Lines
-      uses: kt3k/license_checker@v1.0.0
+      uses: kt3k/license_checker@v1.0.1
 ```
 
 This action checks the license lines in the files on every push.
