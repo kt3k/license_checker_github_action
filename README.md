@@ -6,7 +6,7 @@
 
 First create .licenserc.json file like the below:
 
-```
+```json
 {
   "**/*.ts": "// Copyright 2019 My Name. All rights reserved. MIT license."
 }
@@ -16,7 +16,7 @@ First create .licenserc.json file like the below:
 
 Then create GitHub workflow file like the below:
 
-```
+```yml
 name: Check License Lines
 on:
   push:
