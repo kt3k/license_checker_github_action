@@ -37,3 +37,5 @@ See [deno_license_checker][] for more details about available configs in `.licen
 # License
 
 Blue Oak Model License, version 1.0.0.
+
+[deno_license_checker]: https://github.com/kt3k/deno_license_checker
