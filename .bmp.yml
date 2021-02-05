@@ -1,6 +1,5 @@
 ---
-# Copyright 2019 Yoshiya Hinosawa. All rights reserved. Blue Oak license.
-version: 1.0.3
+version: 1.0.4
 commit: Bump to version v%.%.%
 files:
   README.md: kt3k/license_checker@v%.%.%
