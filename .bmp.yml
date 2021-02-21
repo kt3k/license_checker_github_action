@@ -1,5 +1,5 @@
 ---
-version: 1.0.5
+version: 1.0.6
 commit: Bump to version v%.%.%
 files:
-  README.mkd: kt3k/license_checker@v%.%.%
+  README.md: kt3k/license_checker@v%.%.%
