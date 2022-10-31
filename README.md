@@ -1,3 +1,7 @@
+# Deprecated
+
+Use https://github.com/kt3k/deno_license_checker directly.
+
 # license_checker
 
 > GitHub Action for checking the license lines of the files in a repository
